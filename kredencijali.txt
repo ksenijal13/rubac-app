@@ -1,0 +1,13 @@
+Kredencijali:
+
+E-mail: pera@gmail.com
+Password: pera
+Uloga: admin
+
+E-mail: mika@gmail.com
+Password: mika
+Uloga: korisnik
+
+E-mail: laza@gmail.com
+Password: laza
+Uloga: superAdmin
